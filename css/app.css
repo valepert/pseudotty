@@ -1,0 +1,12 @@
+body {
+  background: #000;
+  margin: 0px 0px 0px 0px;
+
+  /* https://stackoverflow.com/a/4753609 */
+  width: 100%;
+  text-align: center;
+}
+
+#game_content {
+  display: inline-block;
+}

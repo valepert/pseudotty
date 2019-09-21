@@ -1,0 +1,32 @@
+{
+  "name": "pseudotty",
+  "version": "1.0.0",
+  "description": "a pseudotty with phaser3",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "build": "tsc -b",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valepert/pseudotty.git"
+  },
+  "keywords": [
+    "pseudotty",
+    "phaser"
+  ],
+  "author": "valepert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valepert/pseudotty/issues"
+  },
+  "homepage": "https://github.com/valepert/pseudotty#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "phaser": "^3.19.0"
+  }
+}
