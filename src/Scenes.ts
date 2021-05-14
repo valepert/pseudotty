@@ -68,7 +68,7 @@ namespace Tty {
       var terminal = this.add.text(0, 35, Constants.cursor, {
         fontFamily: Constants.fontMonospace,
         fontSize: Constants.fontSizeLarge,
-        fill: Constants.colorWhite,
+        color: Constants.colorWhite,
       });
 
       const writeTerminal = (event) => {
