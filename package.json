@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/valepert/pseudotty#readme",
   "devDependencies": {
-    "http-server": "^0.12.3",
+    "http-server": "^14.1.0",
     "typescript": "^3.6.3"
   },
   "dependencies": {
